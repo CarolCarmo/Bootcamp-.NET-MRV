@@ -1,2 +1,2 @@
 # Bootcamp-.NET-MRV
-Bootcamp da DIO
+Repositório com as práticas do Bootcamp de .NET da DIO
