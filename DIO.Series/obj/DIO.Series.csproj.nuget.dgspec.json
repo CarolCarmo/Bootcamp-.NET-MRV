@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\DIO\\DIO.csproj": {}
+    "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\Dio.series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\DIO\\DIO.csproj": {
+    "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\Dio.series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\DIO\\DIO.csproj",
-        "projectName": "DIO",
-        "projectPath": "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\DIO\\DIO.csproj",
+        "projectUniqueName": "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\Dio.series\\DIO.Series.csproj",
+        "projectName": "DIO.Series",
+        "projectPath": "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\Dio.series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\krolz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\DIO\\obj\\",
+        "outputPath": "C:\\Users\\krolz\\Desktop\\Bootcamp .NET\\Bootcamp-.NET-MRV\\Dio.series\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
